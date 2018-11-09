@@ -1,0 +1,1 @@
+dict = {'Positive / Neutral Keywords': ['Diversity', 'diverse', 'Inclusion', 'inclusive', 'Representation', 'represent', 'Nationality', 'Ethnicity', 'Race', 'Skin color'], 'Negative Keywords': ['Racism', 'racist', 'White-Washing', 'white-wash']}
